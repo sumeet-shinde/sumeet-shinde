@@ -8,11 +8,11 @@ Now I am learning Javascript and MERN Stack (Mongo, ExpressJS, ReactJS, NodeJS) 
 
 Currently, I am in Masai School which is the learning platform to be a Full Stack Web Developer. Now I can say that I can build web applications from scratch. Masai School really helped me, to be skilled enough to build these applications, do check out my repository projects to get an idea of what I am worth.
 
-<a href="https://dev-sumeet.netlify.app/">Portfolio</a><br/>
-<a href="https://drive.google.com/file/d/1XnRO3TnpkSQM71TpdLNObtTblBytvjGj/view?usp=sharing">Resume</a>
+<a target="_blank" href="https://dev-sumeet.netlify.app/">Portfolio</a><br/>
+<a target="_blank" href="https://drive.google.com/file/d/1XnRO3TnpkSQM71TpdLNObtTblBytvjGj/view?usp=sharing">Resume</a>
 
 
 ## Find me on web 🌎: 
-<a href="https://www.linkedin.com/in/sumeet-shinde-34076a1a4/"><img height="30" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
-<a href="https://twitter.com/sam99sumit"><img height="30" width="30" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/sumeet-shinde-34076a1a4/"><img height="30" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
+<a target="_blank" href="https://twitter.com/sam99sumit"><img height="30" width="30" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 
